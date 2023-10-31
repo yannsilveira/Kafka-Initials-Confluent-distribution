@@ -1,0 +1,1 @@
+sudo /Users/yannap./Documents/confluent-7.5.1/bin/kafka-topics --describe  --zookeeper localhost:2181 --topic invoice
